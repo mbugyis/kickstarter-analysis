@@ -19,7 +19,7 @@
 - After totally the number of projects. Simple math was used to determine a percentage of successful, failed, and canceled projects and their goal.
 - Using the percentage information, a line graph was created to depict the success rate of projects in relation to the goal amount.
 
-![Percentage Line Graph](C:\Users\MBugy\OneDrive\Desktop\Data Boot Camp\Module 1\Lesson 1-4\resources\Outcomes_vs_Goals.png)
+![Percentage Line Graph](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
